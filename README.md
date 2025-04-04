@@ -66,7 +66,7 @@ Ziel ist es, systematische Benachteiligungen zu identifizieren – etwa wenn bes
 
 ---
 
-## 📊 Power BI Dashboard (optional)
+## 📊 Power BI Dashboard 
 
 <p align="center">
   <img src="Images/powerbi.png" alt="Instacart Dashboard"/>
