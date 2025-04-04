@@ -12,6 +12,7 @@
 - ***
 - ***
 
+
 ---
 
 ## 📌 Projektübersicht
@@ -22,14 +23,6 @@ Im Rahmen dieses Projekts führen wir eine explorative Datenanalyse für zwei ze
 - **📦 Disposition**
 
 Ziel ist es, auf Basis des Instacart-Datensatzes zwei **zielgruppengerechte Data Stories** aufzubereiten, um geschäftsrelevante Erkenntnisse zu gewinnen. Diese dienen als Entscheidungsgrundlage für strategische Maßnahmen in beiden Abteilungen.
-
----
-
-## 🔍 3.1 Explorative Datenanalyse für Marketing und Disposition
-
-Die Stakeholder erwarten im Jupyter Notebook einen gut strukturierten Abschnitt:
-
-> **„EDA für Marketing und Disposition“**
 
 ---
 
